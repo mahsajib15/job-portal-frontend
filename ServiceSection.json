@@ -1,0 +1,358 @@
+{
+  "services": [
+    {
+      "title": "Appliance Services",
+      "items": [
+        {
+          "id": "ApplianceService1aZ9aBc8",
+          "name": "Refrigerator Service",
+          "image": "/public/Images/Services/banquet-hall.jpg",
+          "location": "Dhaka",
+          "category": "popular",
+          "date": "2024-12-01",
+          "description": "Cooling, Repair, Maintenance"
+        },
+        {
+          "id": "ApplianceService2bX7dFg3",
+          "name": "TV Repair Service",
+          "image": "/public/Images/Services/tv-repair.jpg",
+          "location": "Chittagong",
+          "category": "Appliance Services",
+          "date": "2024-11-15",
+          "description": "Screen, Sound, Power, Repair"
+        },
+        {
+          "id": "ApplianceService3fQ4hJk5",
+          "name": "AC Repair Service",
+          "image": "/public/images/services/ac-service.jpg",
+          "location": "Sylhet",
+          "category": "popular",
+          "date": "2024-10-20",
+          "description": "Cooling, Maintenance, Repair"
+        },
+        {
+          "id": "ApplianceService4mV2iPl6",
+          "name": "Oven Repair Service",
+          "image": "/public/images/services/oven-repair.jpg",
+          "location": "Khulna",
+          "category": "Appliance Services",
+          "date": "2024-09-30",
+          "description": "Heating, Repair, Parts"
+        },
+        {
+          "id": "ApplianceService5yB3oUv7",
+          "name": "Washing Machine Service",
+          "image": "/public/images/services/washing-machine.jpg",
+          "location": "Rajshahi",
+          "category": "popular",
+          "date": "2024-08-25",
+          "description": "Cleaning, Spin, Maintenance"
+        },
+        {
+          "id": "ApplianceService6zT8aKn9",
+          "name": "Geyser Repair Services",
+          "image": "/public/images/services/geyser-repair.jpg",
+          "location": "Barisal",
+          "category": "Appliance Services",
+          "date": "2024-07-10",
+          "description": "Heating, Water, Repair, Maintenance"
+        }
+      ]
+    },
+    {
+      "title": "Daily Needs",
+      "items": [
+        {
+          "id": "DailyNeeds1pK2vRm5",
+          "name": "Movies",
+          "image": "/public/images/services/movies.jpg",
+          "location": "Narayanganj",
+          "category": "Daily Needs",
+          "date": "2024-12-10",
+          "description": "Entertainment, Cinema, Fun, Leisure"
+        },
+        {
+          "id": "DailyNeeds2uV7cXb8",
+          "name": "Grocery",
+          "image": "/public/images/services/grocery.jpg",
+          "location": "Comilla",
+          "category": "popular",
+          "date": "2024-11-05",
+          "description": "Food, Essentials, Shopping, Daily"
+        },
+        {
+          "id": "DailyNeeds3yB9rHd4dfea",
+          "name": "Electricians",
+          "image": "/public/images/services/electricians.jpg",
+          "location": "Rangpur",
+          "category": "Daily Needs",
+          "date": "2024-10-12",
+          "description": "Wiring, Repair, Lighting, Circuits"
+        },
+        {
+          "id": "DailyNeeds3yB9rHd4",
+          "name": "Electricians",
+          "image": "/public/images/services/electricians.jpg",
+          "location": "Dhaka",
+          "category": "Daily Needs",
+          "date": "2024-08-12",
+          "description": "Wiring, Repair, Lighting, Circuits"
+        },
+        {
+          "id": "DailyNeeds3yB9rHfaead4",
+          "name": "Electricians",
+          "image": "/public/images/services/electricians.jpg",
+          "location": "Barishal",
+          "category": "Daily Needs",
+          "date": "2024-10-05",
+          "description": "Wiring, Repair, Lighting, Circuits"
+        },
+        {
+          "id": "DailyNeeds3saeafyB9rHd4",
+          "name": "Electricians",
+          "image": "/public/images/services/electricians.jpg",
+          "location": "Khulna",
+          "category": "Daily Needs",
+          "date": "2024-10-12",
+          "description": "Wiring, Repair, Lighting, Circuits"
+        }
+      ]
+    },
+    {
+      "title": "Electronics & Gadgets Services",
+      "items": [
+        {
+          "id": "ElectronicsService1pQ2nKm3",
+          "name": "Laptop Repair Service",
+          "image": "/public/images/services/laptop.jpg",
+          "location": "Gazipur",
+          "category": "Electronics & Gadgets Services",
+          "date": "2024-09-05",
+          "description": "Hardware, Software, Repair, Upgrades"
+        },
+        {
+          "id": "ElectronicsService2vF7aZx4",
+          "name": "Desktop Repair Service",
+          "image": "/public/images/services/desktop.jpg",
+          "location": "Bogura",
+          "category": "popular",
+          "date": "2024-08-18",
+          "description": "Hardware, Software, Repair, Upgrades"
+        },
+        {
+          "id": "ElectronicsService3kC1oFt9",
+          "name": "MacBook Service",
+          "image": "/public/images/services/macbook.jpg",
+          "location": "Jessore",
+          "category": "Electronics & Gadgets Services",
+          "date": "2024-07-28",
+          "description": "Hardware, Software, Repair, Upgrades"
+        },
+        {
+          "id": "ElectronicsService4hT6nQe8",
+          "name": "Printer Repair Service",
+          "image": "/public/images/services/printer-repair.jpg",
+          "location": "Mymensingh",
+          "category": "popular",
+          "date": "2024-06-15",
+          "description": "Printing, Repair, Ink, Maintenance"
+        },
+        {
+          "id": "ElectronicsService5yM3oXs7",
+          "name": "IPS Service",
+          "image": "/public/images/services/printer-repair.jpg",
+          "location": "Cox's Bazar",
+          "category": "Electronics & Gadgets Services",
+          "date": "2024-05-22",
+          "description": "Power, Backup, Repair, Maintenance"
+        },
+        {
+          "id": "ElectronicsService6pG4vLs9",
+          "name": "Water Purifier Service",
+          "image": "/public/images/services/printer-repair.jpg",
+          "location": "Sirajganj",
+          "category": "popular",
+          "date": "2024-04-30",
+          "description": "Cleaning, Filters, Water, Repair"
+        }
+      ]
+    },
+    {
+      "title": "Wedding Requisites",
+      "items": [
+        {
+          "id": "WeddingRequisite1tF2nKu3",
+          "name": "Banquet Halls",
+          "image": "/public/Images/Services/banquet-hall.jpg",
+          "location": "Pabna",
+          "category": "Wedding Requisites",
+          "date": "2024-03-30",
+          "description": "Venue, Decoration, Events, Services"
+        },
+        {
+          "id": "WeddingRequisite2vZ6sDl7",
+          "name": "Bridal Requisite",
+          "image": "/public/Images/Services/jewelry.jpg",
+          "location": "Feni",
+          "category": "popular",
+          "date": "2024-01-20",
+          "description": "Jewelry, Dresses, Accessories, Makeup"
+        },
+        {
+          "id": "WeddingRequisite3mA1wQe8",
+          "name": "Caterers",
+          "image": "/public/images/services/caterers.jpg",
+          "location": "Jamalpur",
+          "category": "Wedding Requisites",
+          "date": "2024-04-10",
+          "description": "Food, Events, Preparation, Services"
+        },
+        {
+          "id": "WeddingRequisite3mA1fQe1",
+          "name": "Wedding Photography",
+          "image": "/public/images/services/caterers.jpg",
+          "location": "Jamalpur",
+          "category": "Wedding Requisites",
+          "date": "2024-03-14",
+          "description": "Photos, Memories, Events, Albums"
+        },
+        {
+          "id": "WeddingRequisite3mA1wer1e8",
+          "name": "Resort",
+          "image": "/public/images/services/caterers.jpg",
+          "location": "Vulta",
+          "category": "Wedding Requisites",
+          "date": "2024-07-31",
+          "description": "Venue, Decoration, Events, Services"
+        },
+        {
+          "id": "WeddingRequisimA1wer1e8",
+          "name": "Convention Center",
+          "image": "/public/images/services/caterers.jpg",
+          "location": "Jamalpur",
+          "category": "Wedding Requisites",
+          "date": "2024-10-25",
+          "description": "Venue, Decoration, Events, Services"
+        }
+      ]
+    },
+    {
+      "title": "Beauty & Spa",
+      "items": [
+        {
+          "id": "BeautySpa1nM3tRq5",
+          "name": "Beauty Parlours",
+          "image": "/public/images/services/beauty-parlours.jpg",
+          "location": "Brahmanbaria",
+          "category": "Beauty & Spa",
+          "date": "2024-03-09",
+          "description": "Beauty, Hair, Skin, Makeup"
+        },
+        {
+          "id": "BeautySpa2fS6aLv9",
+          "name": "Spa & Massages",
+          "image": "/public/images/services/spa&messages.jpg",
+          "location": "Faridpur",
+          "category": "popular",
+          "date": "2024-04-16",
+          "description": "Relaxation, Body, Wellness, Therapy"
+        },
+        {
+          "id": "BeautySpa3dV8nZa4",
+          "name": "Makeover & Hairstyling",
+          "image": "/public/images/services/makeover.jpg",
+          "location": "Ullapara",
+          "category": "Beauty & Spa",
+          "date": "2024-10-30",
+          "description": "Style, Hair, Makeover, Beauty"
+        },
+        {
+          "id": "BeautySpa3dV8nfeZa4",
+          "name": "Mehendi Art",
+          "image": "/public/images/services/mehendi.jpg",
+          "location": "Nazipur",
+          "category": "popular",
+          "date": "2024-04-24",
+          "description": "Design, Art, Hands, Bridal"
+        },
+        {
+          "id": "BeautySpa3dV8nZaer24",
+          "name": "Nail Extension",
+          "image": "/public/images/services/nailExtension.jpg",
+          "location": "Sirajganj",
+          "category": "Beauty & Spa",
+          "date": "2024-09-24",
+          "description": "Nails, Beauty"
+        },
+        {
+          "id": "BeautySpa3dV8nZa4feart",
+          "name": "Gym",
+          "image": "/public/images/services/gym.jpg",
+          "location": "Cumilla",
+          "category": "Beauty & Spa",
+          "date": "2024-11-30",
+          "description": "Fitness, Training, Exercise"
+        }
+      ]
+    },
+    {
+      "title": "Health Care",
+      "items": [
+        {
+          "id": "HealthCarejieM3tRq5",
+          "name": "Mom's Care",
+          "image": "/public/images/services/momsCare.jpg",
+          "location": "Brahmanbaria",
+          "category": "Health_Care",
+          "date": "2024-03-09",
+          "description": "Mother, Health, Wellness, Support"
+        },
+        {
+          "id": "HealthCare2fS6aLv9",
+          "name": "Baby & Care",
+          "image": "/public/images/services/momsCare1.jpg",
+          "location": "Faridpur",
+          "category": "popular",
+          "date": "2024-04-16",
+          "description": "Baby, Health, Safety"
+        },
+        {
+          "id": "HealthCare3dV8nZa4",
+          "name": "Womens Care",
+          "image": "/public/images/services/womensCare.jpg",
+          "location": "Ullapara",
+          "category": "Health_Care",
+          "date": "2024-10-30",
+          "description": "Women, Wellness, Support"
+        },
+        {
+          "id": "HealthCare3dV8nfeZa4",
+          "name": "Men's Health",
+          "image": "/public/images/services/mensHealth.jpg",
+          "location": "Nazipur",
+          "category": "Health_Care",
+          "date": "2024-04-24",
+          "description": "Men, Health, Fitness, Wellness"
+        },
+        {
+          "id": "HealthCare3dV8nZaer24",
+          "name": "Skin Care",
+          "image": "/public/images/services/skinCare.jpg",
+          "location": "Sirajganj",
+          "category": "Health_Care",
+          "date": "2024-09-24",
+          "description": "Skin, Beauty, Care, Health"
+        },
+        {
+          "id": "HealthCare3dV8nZa4feart",
+          "name": "Eye Care",
+          "image": "/public/images/services/eyeCare.jpg",
+          "location": "Cumilla",
+          "category": "Health_Care",
+          "date": "2024-11-30",
+          "description": "Eyes, Vision, Health, Care"
+        }
+      ]
+    }
+  ]
+}
